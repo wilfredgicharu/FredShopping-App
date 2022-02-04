@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "321128484413",
+    "project_id": "fredshopping-6a88e",
+    "storage_bucket": "fredshopping-6a88e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321128484413:android:08b12a251eb34d6cd3e454",
+        "android_client_info": {
+          "package_name": "com.example.fredshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321128484413-h1poer821gkp6j245qn0d37n9mq2nmah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fredshopping",
+            "certificate_hash": "711edf991f280f66e70cdd137d5d4ef31434485d"
+          }
+        },
+        {
+          "client_id": "321128484413-8vr0pd3a61h7br0je919mn5b22kbm5o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlHmy-VSKDZyaft5ML3wnEs4LiNc0A5us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321128484413-8vr0pd3a61h7br0je919mn5b22kbm5o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
